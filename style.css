@@ -1,0 +1,42 @@
+
+ /* Style pour le conteneur */
+ .container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style pour la boîte de couleur */
+#color-box {
+    width: 400px;
+    height: 200px;
+    background-color: lightgray;
+    margin: 20px auto;
+}
+
+/* Style pour le bouton */
+#change-color-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
